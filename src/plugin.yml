@@ -1,0 +1,5 @@
+main: me.cl5udia.servercombat.Main
+name: ServersideCombat
+version: '1.0'
+description: Handles player vs. player combat on the server-side.
+author: cl5udia
